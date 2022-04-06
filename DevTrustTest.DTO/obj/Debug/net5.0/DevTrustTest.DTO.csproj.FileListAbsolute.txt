@@ -1,0 +1,12 @@
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\bin\Debug\net5.0\DevTrustTest.DTO.deps.json
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\bin\Debug\net5.0\DevTrustTest.DTO.dll
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\bin\Debug\net5.0\ref\DevTrustTest.DTO.dll
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\bin\Debug\net5.0\DevTrustTest.DTO.pdb
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\obj\Debug\net5.0\DevTrustTest.DTO.csprojAssemblyReference.cache
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\obj\Debug\net5.0\DevTrustTest.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\obj\Debug\net5.0\DevTrustTest.DTO.AssemblyInfoInputs.cache
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\obj\Debug\net5.0\DevTrustTest.DTO.AssemblyInfo.cs
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\obj\Debug\net5.0\DevTrustTest.DTO.csproj.CoreCompileInputs.cache
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\obj\Debug\net5.0\DevTrustTest.DTO.dll
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\obj\Debug\net5.0\ref\DevTrustTest.DTO.dll
+C:\Users\hayk.makaryan\Downloads\DevTrustTest\DevTrustTest.DTO\obj\Debug\net5.0\DevTrustTest.DTO.pdb
